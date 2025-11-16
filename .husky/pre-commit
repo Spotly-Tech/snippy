@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Run lint before commit
+npm run lint
+
+# Run format before commit
+npm run prettier
